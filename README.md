@@ -6,6 +6,8 @@ This app provides an improved console logging experience complete with filtering
 
 A copy of this script [is hosted here](https://overte.zetaphor.com/scripts/zDebugger/zDebugger.js), which can be loaded directly into Overte from the script manager.
 
+![image](https://github.com/Zetaphor/overte-zDebugger/assets/3112763/59ebf644-87eb-4770-ac50-a775cdc1a1ba)
+
 ### Hosting
 
 The required files to host a copy of this script are as follows:
